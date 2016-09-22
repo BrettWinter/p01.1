@@ -28,4 +28,11 @@ def run_tests():
 # Edit this function:
 def gone_bust(n):
 
+    if n == 6:
+        print("OH MA GAWD YASSSSSSSSS")
+
+    else:
+        print("OH SHITTTTTACKI MUSHROOMS")
+    
+
 
